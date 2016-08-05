@@ -5,5 +5,7 @@
 
 body	{
 	font-family: defaultBodyFont;
+	font-size: 200%;
 	background-color: #d2d2e0;
+	margin: 0;
 }
