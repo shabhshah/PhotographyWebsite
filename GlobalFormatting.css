@@ -1,3 +1,8 @@
-body {
+@font-face	{
+	font-family: defaultBodyFont;
+	src: url(DefaultFont.otf);
+}
 
+body	{
+	font-family: myFirstFont
 }
