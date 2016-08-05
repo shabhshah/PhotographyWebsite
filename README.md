@@ -2,5 +2,6 @@
 Photography Website
 
 NEXT STEPS:
--Menu
+-Fix menu hover problem
+-Fix menu active problem
 -Logo
