@@ -16,4 +16,4 @@ function mousehandler(e) {
 
 document.oncontextmenu = mischandler;
 document.onmousedown = mousehandler;
-document.onmouseup = mousehandler; 
+document.onmouseup = mousehandler;
