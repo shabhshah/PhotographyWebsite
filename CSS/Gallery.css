@@ -3,13 +3,13 @@
 	margin: auto;
 }
 
-#Gallery div	{
-	display: inline-block;
+#Images	div {
+	height: 50%;
 	width: 100%;
 	padding-top: 0.5%;
 }
 
-#Gallery img	{
-	width: 100%;
-	height: auto;
+#Images img	{
+	height: 100%;
+	width: auto;
 }
